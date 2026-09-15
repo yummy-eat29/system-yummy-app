@@ -1,0 +1,9 @@
+{
+  "appId": "com.yummyeat.systemyummy",
+  "appName": "system yummy app",
+  "webDir": "www",
+  "backgroundColor": "#6A1B9A",
+  "android": {
+    "allowMixedContent": true
+  }
+}

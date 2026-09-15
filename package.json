@@ -1,0 +1,16 @@
+{
+  "name": "system-yummy-app",
+  "version": "1.0.0",
+  "description": "system yummy - نظام إدارة المطعم",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/core": "*",
+    "@capacitor/android": "*"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "*",
+    "@capacitor/assets": "*"
+  }
+}
